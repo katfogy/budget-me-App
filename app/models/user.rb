@@ -1,6 +1,6 @@
 class User < ApplicationRecord
-has_many :categories
-has_many :purchases
+  has_many :categories
+  has_many :purchases
 
-validates :name, presence: true
+  validates :name, presence: true
 end
