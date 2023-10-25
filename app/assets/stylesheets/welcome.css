@@ -1,0 +1,28 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.d-flex-col{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    flex-direction: column;
+}
+
+.welcome{
+    min-height: 100vh;
+    padding: 10px 20px;
+}
+
+.links{
+gap: 30px;
+}
+    
+#app-title{
+    text-transform: uppercase;
+    border: 2px solid var(--white-color);
+    padding: 5px 10px;
+    background-color: var(--btn-hover-color);
+    color: var(--white-color);
+}

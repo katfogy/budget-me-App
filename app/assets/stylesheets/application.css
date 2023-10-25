@@ -13,3 +13,141 @@
  *= require_tree .
  *= require_self
  */
+ :root {
+    --background-color: rgb(219, 215, 215);
+    --btn-hover-color: #007bff;
+    --white-color: #ffff;
+    --green:#60b524;
+    --red:#b84041;
+    --orange: #d07438;
+  }
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button{
+    padding: 10px 20px;
+    color: var(--white-color);
+    text-decoration: none;
+    border: none;
+    display: block;
+    width: 300px;
+    border-radius: 8px;
+}
+
+a{
+    color: var(--white-color);
+    text-decoration: none; 
+    color: black;
+}
+
+button:hover{
+    background-color: var(--btn-hover-color);
+    cursor: pointer;
+    color: var(--white-color);
+}
+/* a:hover{
+    color: var(--white-color);
+} */
+.landing-page{
+    background-color: var(--background-color);
+    min-height: 100vh;
+}
+
+.sign-up{
+    background-color: var(--white-color);
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.field>*{
+    width: 100%;
+}
+
+li, ul{
+    list-style-type: none;
+}
+
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS (and SCSS, if configured) file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+  
+  .item-title-color {
+    color: #ababab;
+  }
+  
+  .amount-color {
+    color: #373e48;
+  }
+  
+  .date-color {
+    color: #bababd;
+  }
+  
+  .green-btn {
+    background-color: var(--green);
+    color: var(--white-color);
+  }
+  
+  .red-btn {
+    background-color: var(--red);
+    color: var(--white-color);
+  }
+  
+  .blue-nav-white-text {
+    background-color: var(--btn-hover-color);
+    color: var(--white-color);
+  }
+  
+  .orange-btn {
+    background-color: var(--orange);
+    color: var(--white-color);
+  }
+  
+  .blue {
+    color: var(--btn-hover-color);
+  }
+  
+  .blue-btn {
+    background-color: var(--btn-hover-color);
+    color: var(--white-color);
+  }
+  
+  @keyframes scale {
+    0% {
+      transform: scale(1);
+    }
+  
+    50% {
+      transform: scale(1.1); /* Adjust the scale factor as needed */
+    }
+  
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  .animate-scale {
+    animation: scale 2s infinite; /* Adjust the duration and animation iteration as needed */
+  }
+  
+  .width-foga {
+    width: 90%;
+  }
