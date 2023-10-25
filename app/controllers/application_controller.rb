@@ -11,7 +11,9 @@ class ApplicationController < ActionController::Base
       super # Use Devise's default behavior for other resources
     end
   end
+
   protected
+
   def configure_permitted_parameters
     devise_parameter_sanitizer.permit(:sign_up, keys: %i[name])
   end
