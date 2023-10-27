@@ -168,8 +168,10 @@ If you like this project please leave a STAR to the [Github repo](https://github
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to thank Microverse.
-Original design idea by: Gregoire Vella on Behance.
+
+-  I would like to thank Microverse.
+-  Original design idea by: Gregoire Vella on Behance.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
