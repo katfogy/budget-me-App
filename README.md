@@ -56,7 +56,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Deployment <a name="getting-started"></a>
-- Presentation: [Presentation](https://drive.google.com/file/d/1Y0sH7urTL8KB-E9qrLPqthG1H7g1D2u1/view?usp=sharing)
+- Presentation: [Presentation](https://drive.google.com/file/d/1Ojw9_2CF5F1sKpcz_6VrX8XvfmURFuwL/view?usp=sharing)
 - Deployment: [Deployment](https://budget-app-gwxd.onrender.com)
 <!-- GETTING STARTED -->
 
