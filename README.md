@@ -7,6 +7,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
+  - [Deployment](#setup)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
@@ -54,6 +55,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 💻 Deployment <a name="getting-started"></a>
+- Presentation: [Presentation](https://drive.google.com/file/d/1Y0sH7urTL8KB-E9qrLPqthG1H7g1D2u1/view?usp=sharing)
+- Deployment: [Deployment](https://budget-app-gwxd.onrender.com)
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -164,8 +168,8 @@ If you like this project please leave a STAR to the [Github repo](https://github
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to appreciate [Microverse](https://www.microverse.org/) for providing the resources and the platform for us to be a Professional full-stack developer.
+I would like to thank Microverse.
+Original design idea by: Gregoire Vella on Behance.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
