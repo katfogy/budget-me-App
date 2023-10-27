@@ -76,3 +76,5 @@ gem 'tailwindcss-rails', '~> 2.0'
 gem 'selenium-webdriver'
 
 gem 'rails-controller-testing'
+
+gem 'sendgrid-ruby'
